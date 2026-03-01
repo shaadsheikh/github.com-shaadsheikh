@@ -1,52 +1,67 @@
-# github.com-shaadsheikh
+# Mohammad Shaad R. Sheikh
 
-<h1 align="center">Hi 👋, I'm Mohammad Shaad Sheikh</h1>
-<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
+Software Engineer focused on backend systems, automation, and tools for creative workflows.
 
----
+## Background
 
-### 🚀 About Me
-- BCA Graduate
-- Passionate about Software Development and System Design
-- Interested in Backend Development & Automation
-- Currently learning Data Structures & Algorithms
-- Building real-world applications and scalable solutions
+I am currently pursuing MCA and co-founder of Creaturn Media, a creative advertising agency.
+Working with designers, editors, and clients made me interested in building software that reduces operational friction — tracking work, managing revisions, organizing assets, and automating repetitive tasks.
 
----
+My focus is not just writing code, but designing systems that help teams work better.
 
-### 🧠 Technical Skills
+## Interests
+
+* Developer tools
+* Workflow automation
+* Backend engineering
+* Media and asset management systems
+* Data handling and reporting
+
+## Technical Stack
 
 **Languages**
-- C++
-- JavaScript
-- Python
-- Java
 
-**Web Development**
-- HTML
-- CSS
-- Node.js
-- Express.js
+* JavaScript
+* Python
+* C++
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
 
 **Database**
-- MySQL
-- MongoDB
 
-**Tools & Technologies**
-- Git & GitHub
-- VS Code
-- REST APIs
-- Postman
+* MongoDB
+* MySQL
 
----
+**Tools**
 
-### 📌 Current Focus
-- Data Structures & Algorithms
-- Backend Engineering
-- Clean Code & System Design
+* Git
+* Postman
+* Linux basics
 
----
+## Current Learning
 
-### 📫 Contact Me
-Email: shaadworkz543@gmail.com  
+* Data Structures & Algorithms
+* System Design fundamentals
+* Writing scalable backend services
+
+## Projects
+
+I mainly build software that solves operational problems observed in real creative and marketing environments.
+
+Projects include:
+
+* client workflow tracking systems
+* internal dashboards
+* API services
+* automation utilities
+
+Each repository contains detailed documentation and structured commits.
+
+## Contact
+
+Email: shaadworkz543@gmail.com   
 LinkedIn: https://linkedin.com/in/shaadsheikh
